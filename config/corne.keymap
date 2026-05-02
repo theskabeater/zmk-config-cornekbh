@@ -218,7 +218,7 @@
 
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp MINUS             &kp EQUAL              &kp GRAVE      &trans  &kp DELETE
-&trans  &tog 4  &trans  &trans  &trans  &trans    &trans  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp BACKSLASH  &trans  &trans
+&trans  &tog 4  &trans  &trans  &trans  &trans    &trans  &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp BACKSLASH  &trans  &trans
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans         &trans  &trans
                         &trans  &trans  &trans    &trans  &trans                &trans
             >;
