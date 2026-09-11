@@ -64,12 +64,12 @@
         };
 
         CB_RIGHT_GUI {
-            bindings = <&kp RIGHT_GUI>;
+            bindings = <&kp LEFT_GUI>;
             key-positions = <18 30>;
         };
 
         CB_RIGHT_ALT {
-            bindings = <&kp RIGHT_ALT>;
+            bindings = <&kp LEFT_ALT>;
             key-positions = <19 31>;
         };
     };
